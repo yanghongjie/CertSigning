@@ -49,7 +49,7 @@
             // btn_Signture
             // 
             this.btn_Signture.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.btn_Signture.Location = new System.Drawing.Point(399, 221);
+            this.btn_Signture.Location = new System.Drawing.Point(256, 221);
             this.btn_Signture.Name = "btn_Signture";
             this.btn_Signture.Size = new System.Drawing.Size(83, 27);
             this.btn_Signture.TabIndex = 0;
